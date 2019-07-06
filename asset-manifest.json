@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/misguided-developer-singh/react-front-to-back/static/css/main.0462ddb6.chunk.css",
-    "main.js": "/misguided-developer-singh/react-front-to-back/static/js/main.b68c4b3b.chunk.js",
-    "main.js.map": "/misguided-developer-singh/react-front-to-back/static/js/main.b68c4b3b.chunk.js.map",
-    "runtime~main.js": "/misguided-developer-singh/react-front-to-back/static/js/runtime~main.b70b013f.js",
-    "runtime~main.js.map": "/misguided-developer-singh/react-front-to-back/static/js/runtime~main.b70b013f.js.map",
-    "static/css/2.0624914a.chunk.css": "/misguided-developer-singh/react-front-to-back/static/css/2.0624914a.chunk.css",
-    "static/js/2.861da97a.chunk.js": "/misguided-developer-singh/react-front-to-back/static/js/2.861da97a.chunk.js",
-    "static/js/2.861da97a.chunk.js.map": "/misguided-developer-singh/react-front-to-back/static/js/2.861da97a.chunk.js.map",
-    "index.html": "/misguided-developer-singh/react-front-to-back/index.html",
-    "precache-manifest.aaad2484b861fd47607e1f7e5450cdde.js": "/misguided-developer-singh/react-front-to-back/precache-manifest.aaad2484b861fd47607e1f7e5450cdde.js",
-    "service-worker.js": "/misguided-developer-singh/react-front-to-back/service-worker.js",
-    "static/css/2.0624914a.chunk.css.map": "/misguided-developer-singh/react-front-to-back/static/css/2.0624914a.chunk.css.map",
-    "static/css/main.0462ddb6.chunk.css.map": "/misguided-developer-singh/react-front-to-back/static/css/main.0462ddb6.chunk.css.map"
+    "main.css": "/react-front-to-back/static/css/main.0462ddb6.chunk.css",
+    "main.js": "/react-front-to-back/static/js/main.a178fac9.chunk.js",
+    "main.js.map": "/react-front-to-back/static/js/main.a178fac9.chunk.js.map",
+    "runtime~main.js": "/react-front-to-back/static/js/runtime~main.4bf52ad6.js",
+    "runtime~main.js.map": "/react-front-to-back/static/js/runtime~main.4bf52ad6.js.map",
+    "static/css/2.0624914a.chunk.css": "/react-front-to-back/static/css/2.0624914a.chunk.css",
+    "static/js/2.861da97a.chunk.js": "/react-front-to-back/static/js/2.861da97a.chunk.js",
+    "static/js/2.861da97a.chunk.js.map": "/react-front-to-back/static/js/2.861da97a.chunk.js.map",
+    "index.html": "/react-front-to-back/index.html",
+    "precache-manifest.194d9952a1a179f72c51bff6f2f78121.js": "/react-front-to-back/precache-manifest.194d9952a1a179f72c51bff6f2f78121.js",
+    "service-worker.js": "/react-front-to-back/service-worker.js",
+    "static/css/2.0624914a.chunk.css.map": "/react-front-to-back/static/css/2.0624914a.chunk.css.map",
+    "static/css/main.0462ddb6.chunk.css.map": "/react-front-to-back/static/css/main.0462ddb6.chunk.css.map"
   }
 }
